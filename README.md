@@ -6,7 +6,7 @@
 ### <div align="center">I'm Avery and I am a full stack web developer. </div>  
   
 
-- 🔭 I’m currently working on [WeightN(https://github.com/A-D-H-3/WeightN)  
+- 🔭 I’m currently working on [DocuView](https://adh3-docuview.herokuapp.com)  
   
 
 - 🌱 I’m currently learning Python and React  
